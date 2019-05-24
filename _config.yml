@@ -1,9 +1,9 @@
 # Site settings
-title: MY Blog
+title: 小木水的博客
 SEOTitle: 小木水的博客 | MY Blog
 header-img: img/bg.jpg
 email: yi.chu317@gmail.com
-description: "认清生活的真相后依然热爱生活"
+description: "随笔"
 keyword: "MY Blog, 小木水的博客, 生活随笔, 摄影, 影评, 剧评, 优化"
 url: "http://yic317.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://yic317.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "认清生活的真相后依然热爱生活"
 sidebar-avatar: /img/Profile.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
