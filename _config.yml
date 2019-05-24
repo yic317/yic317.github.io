@@ -12,11 +12,11 @@ github_repo: "https://yic317.github.io" # you code repository
 
 
 # SNS settings
-# RSS: false
-# zhihu_username:
-# github_username:
-# facebook_username:  Yi Chu
-# jianshu_username:
+RSS: false
+zhihu_username:
+github_username: yic317
+facebook_username:  
+jianshu_username:
 
 
 
