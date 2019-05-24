@@ -5,7 +5,7 @@ header-img: img/bg.jpg
 email: yi.chu317@gmail.com
 description: "Academic and Life."
 keyword: "MY Blog, 小木水的博客, 生活随笔, 摄影, 影评, 剧评"
-url: "http://xmushui.com"          # your host, for absolute URL
+url: "https://yic317.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://yic317.github.io" # you code repository
 
