@@ -55,7 +55,7 @@ kramdown:
 
 # 评论系统
 
-Gitalk
+# Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 0bfb9215a4c537ca29dd                            #生成的clientID
