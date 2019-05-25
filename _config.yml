@@ -12,7 +12,7 @@ github_repo: "https://github.com/yic317/yic317.github.io" # you code repository
 sidebar: false
 
 # SNS settings
-RSS: true
+RSS: false
 zhihu_username:
 github_username: yic317
 facebook_username: yi.chu.1656
