@@ -9,9 +9,7 @@ url: "https://yic317.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/yic317/yic317.github.io" # you code repository
 
-sidebar: false
-sidebar-about-description: ""
-sidebar-avatar: /img/Profile.jpg
+sidebar: true
 
 # SNS settings
 RSS: false
