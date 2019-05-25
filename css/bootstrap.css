@@ -1078,7 +1078,7 @@ body {
   font-size: 14px;
   line-height: 1.42857143;
   color: #333;
-  background-color: #fff;
+  background-color: #000;
 }
 input,
 button,
@@ -3495,7 +3495,7 @@ tbody.collapse.in {
   padding: 3px 20px;
   font-size: 12px;
   line-height: 1.42857143;
-  color: #777;
+  color: #000;
   white-space: nowrap;
 }
 .dropdown-backdrop {
