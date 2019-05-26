@@ -2,9 +2,9 @@
 layout:     post   				    
 title:  聊一下《我们与恶的距离》				# 标题
 subtitle:   引发的思考 #副标题
-date:       2019-05-25 				# 时间
+date:       2019-05-26 				# 时间
 author:     木水 						# 作者
-header-img: img/bg3.jpg 	#这篇文章标题背景图片
+header-img: img/worldbetweenus.jpg 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
     - 剧评
