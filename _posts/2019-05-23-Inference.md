@@ -1,7 +1,7 @@
 ---
 layout:     post   				    
 title:  我们总喜欢用自己的逻辑解释别人的行为				# 标题
-subtitle:   为什么以及怎么办 #副标题
+subtitle:   然后我们说服了自己 #副标题
 date:       2019-05-25 				# 时间
 author:     木水 						# 作者
 header-img: img/bg3.jpg 	#这篇文章标题背景图片
