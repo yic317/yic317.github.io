@@ -4,7 +4,7 @@ title: 良性朋友关系	# 标题
 subtitle:	从吐槽说起 #副标题
 date:       2019-05-29 				# 时间
 author:     木水 						# 作者
-header-img: img/bg2.jpg 	#这篇文章标题背景图片
+header-img: img/bg-life.jpg 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
     - 生活
