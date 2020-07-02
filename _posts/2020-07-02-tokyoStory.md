@@ -2,7 +2,7 @@
 layout:     post                       
 title:  《东京物语观后感》                # 标题
 subtitle:    #副标题
-date:       2020-07-01                 # 时间
+date:       2020-07-02                 # 时间
 author:     木水                         # 作者
 header-img: img/tokyoStory.png     #这篇文章标题背景图片
 catalog: true                         # 是否归档
