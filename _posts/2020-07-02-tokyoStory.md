@@ -1,6 +1,6 @@
 ---
 layout:     post                       
-title:  《东京物语观后感》                # 标题
+title:  《东京物语》观后感                # 标题
 subtitle:    #副标题
 date:       2020-07-02                 # 时间
 author:     木水                         # 作者
