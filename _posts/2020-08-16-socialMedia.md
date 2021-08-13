@@ -7,7 +7,7 @@ author:     木水                         # 作者
 header-img: img/bg.jpg     #这篇文章标题背景图片
 catalog: true                         # 是否归档
 tags:                                #标签
-    - 生活
+    - 博客
 ---
 前段时间立了个flag说一个半月不看朋友圈，flag竟然没有倒，在这里记录一下心路历程。
 
