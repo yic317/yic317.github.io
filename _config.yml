@@ -10,7 +10,7 @@ baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/yic317/yic317.github.io" # you code repository
 
 sidebar: true
-sidebar-avatar: /img/profile2.jpg
+sidebar-avatar: /img/profile.jpg
 sidebar-about-description: "认清生活的真相后依然热爱生活"
 
 # SNS settings
