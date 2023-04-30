@@ -4,7 +4,7 @@ title:   挂着窗帘的城市               # 标题
 subtitle:        #副标题
 date:       2023-04-30                 # 时间
 author:     木水                         # 作者
-header-img: img/blur.jpg     #这篇文章标题背景图片
+header-img: img/nearsighted.jpg     #这篇文章标题背景图片
 catalog: true                         # 是否归档
 tags:                                #标签
     - 小说
