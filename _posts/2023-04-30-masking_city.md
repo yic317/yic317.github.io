@@ -1,6 +1,6 @@
 ---
 layout:     post                       
-title:   挂着窗帘的城市               # 标题
+title:   到处挂着窗帘的城市               # 标题
 subtitle:        #副标题
 date:       2023-04-30                 # 时间
 author:     木水                         # 作者
