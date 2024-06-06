@@ -4,7 +4,7 @@ title:   月光               # 标题
 subtitle:        #副标题
 date:       2024-05-22                 # 时间
 author:     十七                         # 作者
-header-img: img/nighhtsky.jpg     #这篇文章标题背景图片
+header-img: img/night.jpg     #这篇文章标题背景图片
 catalog: true                         # 是否归档
 tags:                                #标签
     - 小说
