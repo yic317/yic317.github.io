@@ -65,7 +65,7 @@ tags:                                #标签
 
 “It may be quite simple, but, now that it's done”，旁边带耳塞的乘客摘下了耳塞。
 
-“I hope you don't mind, I hope you don't mind, that I put down in words”，戴耳塞的人终于忍不了两个人的争吵，朝他们喊了一句，"Shut The Fuck Up!"车厢上其他人瞬间安静下来，哼歌的女孩似乎没有听到刚才的叫喊，继续唱完了副歌的最后一句。
+“I hope you don't mind, I hope you don't mind, that I put down in words”，戴耳塞的人终于忍不了两个人的争吵，朝他们喊了一句，"Shut The FUCK UP！"车厢上其他人瞬间安静下来，哼歌的女孩似乎没有听到刚才的叫喊，继续唱完了副歌的最后一句。
 
 “How wonderful life is, while you're in the world”。歌曲结束，整个车厢陷入了空前的宁静。当周遭都平静下来的时候，王二才发觉自己的神经原来一直在被刚才的喧闹牵动着，已经感到疲累了。
 
@@ -73,6 +73,6 @@ tags:                                #标签
 
 从地铁站出来，王二打响了女友的手机。
 
-一声，两声，三声，四声……嘟嘟嘟，接下来是女友语音信箱的提示音。“Sorry that I missed your call, let me know why you're calling, if this is important, you can also try to reach me at my email, zfi3687@conqur.com.”女友语音信箱的声音很正式，音调有些低，和往常的声音不同，王二很少听到她语音信箱的留言，一般电话响两声的时候她就接了。这突如其来的陌生感反倒使王二觉得亲切，好像在这样的声音中，他脑子里那个熟悉的女友形象稍稍断裂，这使他得以从一个新的视角重新去重新认识女友，看到她在日常的熟悉中不再激发王二感受的新的一面。
+一声，两声，三声，四声……嘟嘟嘟，接下来是女友语音信箱的提示音。“Sorry that I missed your call, let me know why you're calling, if this is important, you can also try to reach me at my email,  zfi3687@conqur.com.”女友语音信箱的声音很正式，音调有些低，和往常的声音不同，王二很少听到她语音信箱的留言，一般电话响两声的时候她就接了。这突如其来的陌生感反倒使王二觉得亲切，好像在这样的声音中，他脑子里那个熟悉的女友形象稍稍断裂，这使他得以从一个新的视角重新去重新认识女友，看到她在日常的熟悉中不再激发王二感受的新的一面。
 
 不过今天不接电话倒也反常，或许自己应该去女友家敲门，问问什么情况。但楼下的门禁他进不去，前一阵新来了一个前台，对他态度很恶劣，上一次他试图自己去楼上找女友，被前台拦住，待他说明情况之后，不知道出于什么原因，死活认定他是个变态的跟踪者，差点报警，幸好女友及时赶到，才化解了这场误会。他可不想再去跟那个前台有任何交涉。或许公司里突然有什么事，现在正忙得不可开交，没顾上看手机，先等等再说吧。王二有些不安地想着，径自朝约定好的那家面店走去。
