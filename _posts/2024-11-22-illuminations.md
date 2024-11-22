@@ -3,11 +3,11 @@ layout:     post
 title:   Illuminations: Annotations on Selected Poems               # 标题
 subtitle:        #副标题
 date:       2024-11-17                 # 时间
-author:     十七                         # 作者
+author:     Yi Chu                         # 作者
 header-img: img/bg-poem.jpg   #这篇文章标题背景图片
 catalog: true                         # 是否归档
 tags:                                #标签
-    - 小说
+    - Literature review
 ---
 ### The mysterious time of creation
 
@@ -24,5 +24,5 @@ In French, “illuminations” means “illumination” or “enlightenment,” 
 
 However, in the preface to the first publication of Illuminations in the Symbolist poetry magazine La Vogue in 1886, Verlaine stated that “Illuminations” is an English word meaning “coloured plates.” He also added that this was a subtitle that Rimbaud himself wrote on his manuscript.
 
-##### Illuminations: After the Flood
+* Illuminations: After the Flood
 According to Graham Robb (see Rimbaud: A Biography, chapter 24), Rimbaud might even have intended his poems to appear in a particular order. “Après le déluge (After the flood)”, which came first in the original edition, does form the perfect sequel to the theological angst of Une Saison en Enfer: “As soon as the idea of the Flood had subsided . . .” But this is pure speculation. It is not even certain that the forty-one poems are the complete work. Several sticky hands sifted through this “dodgy pack of cards” before it finally appeared, without Rimbaud’s knowledge, in 1886.
