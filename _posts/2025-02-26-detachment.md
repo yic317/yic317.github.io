@@ -1,6 +1,6 @@
 ---
 layout:     post                       
-title:  异梦集               # 标题
+title:                 # 标题
 subtitle:  林中空地      # 副标题
 date:       2025-02-26                 # 时间
 author:     十七                         # 作者
