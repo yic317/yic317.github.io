@@ -1,7 +1,7 @@
 ---
 layout:     post                       
 title: 星光集                # 标题
-subtitle: 林中空地的少女       # 副标题
+subtitle: 林中空地      # 副标题
 date:       2025-02-26                 # 时间
 author:     十七                         # 作者
 header-img: img/boat.jpg   # 这篇文章标题背景图片
